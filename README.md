@@ -1,19 +1,7 @@
-# Mohammadmmirarsalankhan
-afghanleadeer@gmail.com 
-Code
-Issues
-Pull requests
-Mohammadmmirarsalankhan
-/README.md
-mohammadamirarsalankhan
-mohammadamirarsalankhan
-13 minutes ago
-2 lines (2 loc) · 51 Bytes
+Mohammad Amir Arsalan Khan
 
-Preview
+Welcome to my GitHub profile!
 
-Code
+**Email:** afghanleadeer@gmail.com
 
-Blame
-Mohammadmmirarsalankhan
-afghanleadeer@gmail.com
+Here you will find my projects, ideas, and experiments related to programming, technology, and software development. Stay connected!
